@@ -1,0 +1,7 @@
+my_types.vhdl
+*.mti
+*.mpf
+*.wlf
+*.bak
+**/work
+transcript
